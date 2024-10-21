@@ -94,7 +94,7 @@ them.
 
 • For example, let’s say you have a team labelling images of phones as damaged, partially-damaged, or undamaged. If someone labels one image as damaged, but a similar image as partially damaged, your data will be inconsistent.
 
-
+## Observer Bias
 
 
 
