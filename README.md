@@ -54,6 +54,21 @@ them.
 
 • A biased dataset does not accurately represent a model's use case, resulting in skewed outcomes, low accuracy levels, and analytical errors.
 
+• In general, training data for machine learning projects has to be representative of the real world. 
+
+• This is important because this data is how the machine learns to do its job. 
+
+• Data bias can occur in a range of areas, from human reporting and selection bias to algorithmic and interpretation bias.
+
+
+
+
+
+
+
+
+
+
 
 
 
