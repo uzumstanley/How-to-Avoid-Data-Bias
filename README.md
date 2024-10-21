@@ -21,3 +21,7 @@ team may see biases that your team has overlooked.
 
 • Where possible, combine inputs from multiple sources to ensure 
 data diversity.
+
+• Create a gold standard for your data labelling. A gold standard is a 
+set of data that reflects the ideal labelled data for your task. It 
+enables you to measure your team’s annotations for accuracy.
