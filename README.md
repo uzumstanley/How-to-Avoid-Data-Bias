@@ -50,7 +50,9 @@ them.
 
 ## Bias in Dataset
 
+• Data bias in machine learning is a type of error in which certain elements of a dataset are more heavily weighted and/or represented than others. 
 
+• A biased dataset does not accurately represent a model's use case, resulting in skewed outcomes, low accuracy levels, and analytical errors.
 
 
 
