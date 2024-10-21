@@ -80,7 +80,11 @@ them.
 
 ## Measurement Bias
 
+• This type of bias occurs when the data collected for training differs from that collected in the real world, or when faulty measurements result in data distortion. 
 
+• A good example of this bias occurs in image recognition datasets, where the training data is collected with one type of camera, but the production data is collected with a different camera. 
+
+• Measurement bias can also occur due to inconsistent annotation during the data labelling stage of a project.
 
 
 
