@@ -72,7 +72,11 @@ them.
 
 ## Exclusion Bias
 
+• Exclusion bias is most common at the data pre-processing stage. Most often it's a case of deleting valuable data thought to be unimportant. 
 
+• However, it can also occur due to the systematic exclusion of certain information. For example, imagine you have a dataset of customer sales in America and Canada. 98% of the customers are from America, so you choose to delete the location data thinking it is irrelevant. 
+
+• However, this means you model will not pick up on the fact that your Canadian customers spend two times more.
 
 
 
