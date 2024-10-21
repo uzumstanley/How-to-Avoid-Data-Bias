@@ -96,7 +96,11 @@ them.
 
 ## Observer Bias
 
+• Also known as confirmation bias, observer bias is the effect of seeing what you expect to see or want to see in data.
 
+• This can happen when researchers go into a project with subjective thoughts about their study, either conscious or unconscious. 
+
+• We can also see this when labellers let their subjective thoughts control their labelling habits, resulting in inaccurate data.
 
 
 
