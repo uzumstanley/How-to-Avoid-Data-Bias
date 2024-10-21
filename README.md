@@ -78,7 +78,7 @@ them.
 
 • However, this means you model will not pick up on the fact that your Canadian customers spend two times more.
 
-
+## Measurement Bias
 
 
 
