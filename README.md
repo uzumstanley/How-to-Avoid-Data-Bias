@@ -7,3 +7,5 @@ learning algorithm, data or model is biased, there are a number of
 steps you can take to help prevent bias or catch it early.
 • To the best of your ability, research your users in advance. Be 
 aware of your general use-cases and potential outliers.
+
+![image](https://github.com/user-attachments/assets/1c6e88f5-d147-4c7d-80bc-cea40a2c964e)
