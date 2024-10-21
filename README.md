@@ -110,4 +110,12 @@ them.
 
 • This can be seen in facial recognition and automatic speech recognition technology which fails to recognize people of colour as accurately as it does Caucasians.
 
+## Association Bias
 
+• This bias occurs when the data for a machine learning model reinforces and/or multiplies a cultural bias. 
+
+• Your dataset may have a collection of jobs in which all men are doctors, and all women are nurses. This does not mean that women cannot be doctors, and men cannot be nurses. 
+
+• However, as far as your machine learning model is concerned, female 
+doctors and male nurses do not exist. Association bias is best known for 
+creating gender bias.
