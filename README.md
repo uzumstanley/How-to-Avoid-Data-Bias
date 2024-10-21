@@ -104,6 +104,10 @@ them.
 
 ## Racial Bias
 
+• Though not data bias in the traditional sense, this still warrants mentioning due to its prevalence in AI technology of late. 
 
+• Racial bias occurs when data skews in favour of demographics. 
+
+• This can be seen in facial recognition and automatic speech recognition technology which fails to recognize people of colour as accurately as it does Caucasians.
 
 
