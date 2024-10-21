@@ -70,7 +70,7 @@ them.
 
 • Another name for this bias is selection bias.
 
-
+## Exclusion Bias
 
 
 
