@@ -16,3 +16,5 @@ collected and/or annotated data. Someone from outside of your
 team may see biases that your team has overlooked.
 
 • Ensure your team of data scientists and data labellers is diverse.
+
+![image](https://github.com/user-attachments/assets/26ad984a-b0f4-48cd-9e40-01766f8e0ad8)
