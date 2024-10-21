@@ -25,3 +25,5 @@ data diversity.
 • Create a gold standard for your data labelling. A gold standard is a 
 set of data that reflects the ideal labelled data for your task. It 
 enables you to measure your team’s annotations for accuracy.
+
+![image](https://github.com/user-attachments/assets/5cce6e3e-3e0b-4a04-8d3b-d7d0b60b932c)
