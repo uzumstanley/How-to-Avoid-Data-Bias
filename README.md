@@ -14,3 +14,5 @@ aware of your general use-cases and potential outliers.
 • Enlist the help of someone with domain expertise to review your 
 collected and/or annotated data. Someone from outside of your 
 team may see biases that your team has overlooked.
+
+• Ensure your team of data scientists and data labellers is diverse.
