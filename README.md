@@ -30,3 +30,7 @@ enables you to measure your team’s annotations for accuracy.
 
 • Make clear guidelines for data labelling expectations so data 
 labellers are consistent.
+
+• Use multi-pass annotation for any project where data accuracy 
+may be prone to bias. Examples of this include sentiment analysis, 
+content moderation, and intent recognition.
