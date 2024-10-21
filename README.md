@@ -40,3 +40,24 @@ content moderation, and intent recognition.
 
 • Analyse your data regularly. Keep track of errors and problem areas so you can respond to and resolve them quickly.
 
+• Carefully analyse data points before making the decision to delete or keep 
+them.
+
+• Make bias testing a part of your development cycle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
