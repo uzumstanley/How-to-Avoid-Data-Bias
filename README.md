@@ -60,6 +60,13 @@ them.
 
 • Data bias can occur in a range of areas, from human reporting and selection bias to algorithmic and interpretation bias.
 
+• Sample bias occurs when a dataset does not reflect the realities of the environment in which a model will run. 
+
+• An example of this is certain facial recognition systems trained primarily on images of white men. 
+
+• These models have considerably lower levels of accuracy with women and people of different ethnicities. 
+
+• Another name for this bias is selection bias.
 
 
 
