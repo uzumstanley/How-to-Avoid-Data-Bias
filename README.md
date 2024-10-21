@@ -34,3 +34,6 @@ labellers are consistent.
 • Use multi-pass annotation for any project where data accuracy 
 may be prone to bias. Examples of this include sentiment analysis, 
 content moderation, and intent recognition.
+
+
+![image](https://github.com/user-attachments/assets/df0626ae-b2c2-4f7e-9881-4f7b8e9f9cb4)
